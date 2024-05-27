@@ -1,0 +1,154 @@
+body {
+  background-image: url(img/N.jpeg);
+  background-size: cover;
+  margin: 5%;
+  font-size: larger;
+  color: white;
+  font-style: unset;
+  font-family: 'Times New Roman';
+  padding: 0;
+  display: flex;
+  justify-content: top;
+  align-items: top;
+  height: 100vh;
+  margin: 1;
+  font-size: larger;
+}
+
+.container {
+  text-align: left;
+  padding-top: 50;
+  color: rgb(57, 47, 47);
+  margin: auto;
+  border-radius: 10PX;
+  background:rgb(44, 36, 136) (236, 158, 62, 0.837);  /* Optional: Add some transparency for a more modern look */
+  max-width: 1200px;
+}
+.header {
+  color: rgb(86, 86, 100);
+  text-align: center;
+  color: white;
+  margin-bottom: 300px;
+  align-items: center;
+}
+
+.logo
+{
+  max-width: 100px;
+   align-content: left;
+}
+
+.content h1 {
+  text-align: center;
+  color:rgb(226, 13, 13);
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  font-weight: 1400;
+  size: 1rem;
+  display: inline;
+  background-color: black;
+}
+.content h2 {
+  text-align: center;
+  color:rgb(126, 43, 43);
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  size: 2rem;
+}
+
+.content p {
+
+  font-size: 0.8em;
+  font-size: larger;
+  text-align: CENTER;
+  color: white;
+  margin-bottom: 20px;
+  align-items: LEFT;
+}
+.ul{
+  text-align:left;
+  text-size-adjust: 2px;
+}
+.pius
+{
+  color: white;
+  text-align: center;
+}
+.image{
+  width: 32px;
+  height: 32px;
+}
+.gallary
+{
+  display: flex;
+  align-items: left;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+.gallary img
+{
+  width: 30%;
+  margin: 5px;
+}
+.contact 
+{
+  text-align: center;
+  margin: -5%;
+  align-items: end;
+  padding-right: 50%;
+  background-image: url(img/cover.jpg);
+  background-size: cover;
+  
+}
+.contact a
+{
+  color: white;
+  font-size: 1.2rem;
+  display: inline-block;
+  background-color: black;
+}
+.contact img
+{
+  display: inline-block;
+  background-color: rgb(156, 23, 23);
+}
+.footer {
+  color: rgb(133, 50, 50);
+  text-align: center;
+}
+.red 
+{
+  color: blue;
+  font-size: 1rem;
+}
+.Mitich h2
+{
+  text-align: center;
+}
+.Mitich
+{
+  text-align: left;
+  color: blue;
+  margin: 15%;
+}
+.menu-items
+{
+  color: red;
+}
+.element
+{
+  width: 90%;
+  margin: auto;
+}
+.toggle
+{
+  display: none;
+}
+.button
+{
+  display: inline-block;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  bottom: 25%;
+}
